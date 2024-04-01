@@ -1,6 +1,21 @@
+header{
+    background-color: azure;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
 body{
-color:black;
-background-color: blue;
-font-size:40 px;
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-} 
+    color: aquamarine;
+    background-image: linear-gradient(to right, white, aquamarine);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+}
+.imagem{
+    text-align: center;
+}
+.botao{
+    border-radius: 15px;
+}
